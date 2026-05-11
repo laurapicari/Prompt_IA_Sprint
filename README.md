@@ -1,8 +1,8 @@
-# Prompt_IA_Sprint
+# Challenge Sprint 01 - Prompt and IA 
 ## Ciência da Computação - Turma 1CCPY
 ### Alunos:
-# Gabriela Campos - rm: 572738
-# João Victor -  rm: 571630
-# Laura Pícari - rm: 569914
-# Lucas Neves - rm: 572679
-# Yihang Xu - rm: 571720
+* Gabriela Campos - RM: 572738
+* João Victor -  RM: 571630
+* Laura Pícari - RM: 569914
+* Lucas Neves - RM: 572679
+* Yihang Xu - RM: 571720
