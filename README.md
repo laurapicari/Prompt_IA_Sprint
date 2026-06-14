@@ -1,4 +1,4 @@
-# ChargeGrid Intelligence (ChargeVolt) — Challenge 2026 - GoodWe
+# ChargeVolt — FIAP Challenge 2026 (GoodWe)
 
 ## Ciência da Computação - Turma 1CCPY
 
