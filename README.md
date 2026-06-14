@@ -441,10 +441,3 @@ persona (especialmente o caso 5, em que o chatbot corretamente recusa expor dado
 individuais de outro usuário ao perfil de síndico).
  
 ---
-
-## 7. Vídeo de demonstração
-
-Link do vídeo (YouTube, não listado): _(adicionar link aqui)_
-
-O vídeo demonstra pelo menos 3 interações com o chatbot, cobrindo diferentes perfis e
-mostrando o funcionamento
