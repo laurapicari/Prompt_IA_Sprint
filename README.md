@@ -1,4 +1,4 @@
-# ChargeGrid Intelligence (ChargeVolt) — Challenge 2026 / GoodWe
+# ChargeGrid Intelligence (ChargeVolt) — Challenge 2026 - GoodWe
 
 ## Ciência da Computação - Turma 1CCPY
 
@@ -14,8 +14,7 @@
 ## 1. Sobre o projeto
 
 O **ChargeVolt** é a proposta do grupo para o EV Challenge 2026, focada no
-**gerenciamento automatizado de eletropostos comerciais**. O projeto utiliza como referência
-o **EV Charger instalado na FIAP** e o ecossistema digital da **GoodWe**.
+**gerenciamento automatizado de eletropostos comerciais**.
 
 ### Problema
 Hoje não existem mecanismos integrados nos eletropostos comerciais para:
