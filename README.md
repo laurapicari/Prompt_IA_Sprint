@@ -118,7 +118,7 @@ com seu papel.
 
 ## 5. Como executar
 
-1. Abra o notebook `notebook_GoodWeSprint2.ipynb` no Google Colab.
+1. Abra o notebook `notebook_GoodWeSprint02.ipynb` no Google Colab.
 2. No menu lateral esquerdo, clique no ícone de chave (*Secrets*) e crie um secret
    chamado `HF_TOKEN` com seu token de acesso do Hugging Face (gerado em
    huggingface.co → Settings → Access Tokens). Habilite o acesso do notebook a esse
@@ -137,14 +137,11 @@ com seu papel.
 
 ### Dependências
 - `huggingface_hub`
-- `pandas` (geralmente já disponível no Colab)
 
 ### Variáveis de ambiente / segredos necessários
 - `HF_TOKEN` — token de acesso do Hugging Face, configurado via Google Colab Secrets.
 
 ---
-
-## 6. Casos de teste e resultados (Sprint 2)
 
 ## 6. Casos de teste e resultados (Sprint 2)
  
